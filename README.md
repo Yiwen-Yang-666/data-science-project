@@ -1,7 +1,5 @@
 # data-science-project
-This project includes two projects I participated in 
 
-The first one project introduce an improved K-NN model for daily weather. Based on this model, I proposed a modified version for monthly weather. 
-But this is just an idea and not tested and published.
+The first one project introduced an improved K-NN model predicting daily weather. Based on this model, I proposed a modified version predicting monthly weather. But this was just an idea and not tested and published.
 
-The second project is related to feature selection and classification for a gene association sudy.
+The second project applied seven machine learning algorithms for a gene association study.
